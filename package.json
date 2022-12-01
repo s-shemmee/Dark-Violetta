@@ -1,0 +1,40 @@
+{
+  "name": "dark-violetta",
+  "displayName": "Dark Violetta",
+  "description": "Dark Violetta VSCode Theme!!",
+  "version": "0.0.1",
+  "publisher": "s-shemmee",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-shemmee/Dark-Violetta"
+  },
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "purple",
+    "shemmee",
+    "violet",
+    "aesthetic",
+    "pink",
+    "cute",
+    "pastel",
+    "blue"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Violetta",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Violetta-color-theme.json"
+      }
+    ]
+  }
+}
