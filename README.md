@@ -1,6 +1,6 @@
 # Violetta Dark VSCode Theme
 
-*It's always hard to find the perfect coding theme because there are so many out there. That's why I created Violetta, my first VSCode theme! It's a dark theme with the purple color scheme. I hope you'll enjoy while you're coding.*
+*Dark Violetta is a beautiful dark VSCode theme for coders. It is carefully designed with a pinch of purple to satisfy your code-loving heart. It has the perfect balance of colors for those who prefer the dark side of coding. With this project, I wanted to create something that would give me the best experience in coding possible and I hope it does the same for you!*
 
 *Any feedback is appreciated, thanks <3*
 
@@ -16,7 +16,7 @@
 
 ---
 
-**Happy Coding!**
+**I hope you'll enjoy while you're coding, Happy Coding!**
 
 
 
