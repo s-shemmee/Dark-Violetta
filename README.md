@@ -14,6 +14,10 @@
   <img width="100%" src="images/preview3.jpeg" alt="screenshot"/>
 </div>
 
+---
+
 **Happy Coding!**
+
+
 
 > Made By @s-shemmee
