@@ -9,7 +9,7 @@
 <div align="center">
   <img width="100%" src="/images/preview1.jpeg" alt="screenshot"/>
   <br><br><br><br>
-  <img width="100%" src="./images/preview2.jpeg" alt="screenshot"/>
+  <img width="100%" src="/images/preview2.jpeg" alt="screenshot"/>
   <br><br><br><br>
   <img width="100%" src="images/preview3.jpeg" alt="screenshot"/>
 </div>
